@@ -1,5 +1,5 @@
-// Nombre: [Tu nombre]
-// Cuenta: [Tu número de cuenta]
+// Nombre: [Christopher Moran]
+// Cuenta: [202400260]
 
 #include <stdio.h>
 
